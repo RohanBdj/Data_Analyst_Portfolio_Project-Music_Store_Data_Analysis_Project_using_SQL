@@ -1,1 +1,1 @@
-# Data-Analyst-Portfolio-Project---Music-Store-Data-Analysis-Project-using-SQL
+# Data_Analyst_Portfolio_Project - Music_Store_Data_Analysis_Project_using_SQL
